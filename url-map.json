@@ -1,1 +1,27 @@
+{
+  "/": "home",
+  "/shop/": "shop",
+  "/shop/page/2/": "shop2",
+  "/product/4-in-1-strap-watch/": "4s",
+  "/product/7-in-1-strap-watch/": "7s",
+  "/product/cmf-buds/": "cmf",
+  "/product/cmf-neckband/": "cmfn",
+  "/product/i-20-watch/": "i20",
+  "/product/mobirite-buds-air-tws/": "mob",
+  "/product/50-ms-nirvana-zeinth/": "nir",
+  "/product/noise-master-buds/": "noise",
+  "/product/s-12-ultra-4g-android-smartwatch-with-rotating-camera/": "s12",
+  "/product/s16-4g-android-smartwatch-super-amoled-90hz-display/": "s16",
+  "/product/s8-ultra-464gb-free-accessories/": "s8",
+  "/product/t800-ultra-series-watch/": "t800",
+  "/product/tws-pure-black/": "black",
+  "/product/tws-pro-2-gen-with-display/": "screen",
+  "/product/tws-with-free-silicone-case/": "case",
+  "/product/yo-yo-pods/": "yoyo",
+  "/privacy-policy/": "privacy",
+  "/terms-and-conditions/": "terms",
+  "/replacement-policy/": "replacement",
+  "/contact/": "contact",
+  "/about_us/": "about"
+}
 
